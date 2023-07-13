@@ -94,7 +94,8 @@ watch(
       height: 142px;
       margin-left: 12px;
       transform: translateY(-8px);
-      font-family: "Pacifico-Regular";
+      font-family: "Helvetica";
+      color: #581dfb;
 
       .bg {
         font-size: 5rem;
